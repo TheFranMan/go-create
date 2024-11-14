@@ -28,7 +28,7 @@ To create a new project, use the following command:
 ./go-create myapp 1.23.0
 ```
 
-This command generates a new project named myapp configured to use Go version 1.19.
+This command generates a new project named myapp configured to use Go version 1.23.0.
 
 ## Project Structure
 A new project created by go-create will have a structure similar to:
